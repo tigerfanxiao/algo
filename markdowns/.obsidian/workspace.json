@@ -68,19 +68,55 @@
             }
           },
           {
+            "id": "df64ac16146f662c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2b5a37fd89a83e18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack&Queue.md",
+                "file": "Algorithms/Stack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9518060a53c882d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Heap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbc15d1d61b3f580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Stack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Depth First Search.md",
+                "file": "Algorithms/Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Depth First Search.md",
+                "file": "Algorithms/Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Depth First Search.md"
+                "file": "Algorithms/Stack.md"
               }
             }
           }
@@ -197,14 +233,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2e13661c99100c89",
+  "active": "dbc15d1d61b3f580",
   "lastOpenFiles": [
+    "Algorithms/Heap.md",
+    "Algorithms/Binary Tree.md",
+    "Algorithms/Stack.md",
     "Algorithms/Trees.md",
-    "Algorithms/Grapth.md",
-    "Algorithms/Depth First Search.md",
-    "Stack&Queue.md",
-    "Algorithms/Leetcode 78 Subsets.md",
     "Algorithms/Dynamic Programming.md",
+    "Algorithms/Depth First Search.md",
+    "Algorithms/Grapth.md",
+    "Algorithms/Leetcode 78 Subsets.md",
     "Obsidian.md"
   ]
 }
