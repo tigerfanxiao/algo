@@ -109,14 +109,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Stack.md",
+                "file": "Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5bb792c00eda3a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习资料.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "debbe92d4e8af90d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Queue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -166,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207.5
   },
   "right": {
     "id": "544c12d220653392",
@@ -182,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Stack.md",
+                "file": "Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Stack.md",
+                "file": "Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Stack.md"
+                "file": "Queue.md"
               }
             }
           }
@@ -233,16 +257,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dbc15d1d61b3f580",
+  "active": "debbe92d4e8af90d",
   "lastOpenFiles": [
+    "学习资料.md",
+    "Obsidian.md",
+    "Algorithms/Stack.md",
     "Algorithms/Heap.md",
     "Algorithms/Binary Tree.md",
-    "Algorithms/Stack.md",
     "Algorithms/Trees.md",
     "Algorithms/Dynamic Programming.md",
     "Algorithms/Depth First Search.md",
     "Algorithms/Grapth.md",
-    "Algorithms/Leetcode 78 Subsets.md",
-    "Obsidian.md"
+    "Algorithms/Leetcode 78 Subsets.md"
   ]
 }
